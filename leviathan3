@@ -1,0 +1,6 @@
+runned the program and saw its asked for a password so then i looked for a strcmp or for a comparing the input and the real password the strings that was in the function made it easier to find the strcmp 
+i saw a strcmp but it was before the enter password string so i knew it wasnt what i am looking for still noticed as it has a meaning that might be important later 
+so i saw a function after the enter of the password and i entered it 
+there was the strcmp after a look from above i saw that wtf is manipulated and i tried to figure how it manipulated i saw it just runned over one of the bytes then i wanted to be sure that buf is input as didnt saw _fgets_ puts anything in there so i runned with debugger and found my string then i looked it and wtf is the password looked with breakpoint after wtf gives his value to the stack for the function strcmp to take it (cdecl convention as for linux) then i answered the question and got shell 
+then looked in the pass_leviathan directory and cat the file.
+WG1egElCvO
