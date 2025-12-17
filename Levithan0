@@ -1,0 +1,22 @@
+1  pwd
+    2  whoami
+    3  ls
+    4  ll
+    5  sudo -l
+    6  id
+    7  hostname
+   8  uname -a
+   9  ls -la
+   10  tree
+   11  ls .backup
+   12  ls -la .backup
+   13  cat .backup/bookmarks.html
+   14  ls -la .backup
+   15  id
+   16  groups
+   17  cat .backup/bookmarks.html | grep pass
+   leviathan0@leviathan:~$ cat .backup/bookmarks.html | grep pass
+<DT><A HREF="http://leviathan.labs.overthewire.org/passwordus.html | This will be fixed later, the password for leviathan1 is 3QJ3TgzHDq ADD_DATE="1155384634" LAST_CHARSET="ISO-8859-1" ID="rdf:#$2wIU71">password to leviathan1</A>
+
+
+[[Leviathan1]]
